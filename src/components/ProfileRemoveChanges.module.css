@@ -1,0 +1,390 @@
+.imageRemovebgPreview1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 85px;
+  height: 89px;
+  object-fit: cover;
+}
+.iprk,
+.iskandarPuteriRendah {
+  position: absolute;
+  display: inline-block;
+}
+.iprk {
+  top: 0;
+  left: 3px;
+  text-decoration: underline;
+  width: 123px;
+  height: 45px;
+}
+.iskandarPuteriRendah {
+  top: 48px;
+  left: 0;
+  font-size: var(--font-size-6xs);
+  width: 129px;
+  height: 18px;
+}
+.iprkParent,
+.mainLogo {
+  position: absolute;
+  top: 18px;
+  left: 93px;
+  width: 129px;
+  height: 66px;
+}
+.mainLogo {
+  top: 6px;
+  left: 29px;
+  width: 222px;
+  height: 89px;
+  font-size: var(--font-size-30xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}
+.signOut {
+  position: absolute;
+  top: 957px;
+  left: 76px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 92px;
+  height: 30px;
+}
+.signOutSqureIcon {
+  position: absolute;
+  top: 957px;
+  left: 47px;
+  width: 24px;
+  height: 24px;
+}
+.adaptation,
+.carbonAnalysis,
+.joinUs {
+  position: absolute;
+  top: 225px;
+  left: 51px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 135px;
+  height: 27px;
+}
+.adaptation,
+.joinUs {
+  top: 258px;
+}
+.joinUs {
+  top: 292px;
+}
+.calendar,
+.calenderAlt2Icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.calenderAlt2Icon {
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.calendar {
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 174px;
+}
+.calenderAlt2Parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 20px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-steelblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.menuItem {
+  position: absolute;
+  width: 82.14%;
+  top: calc(50% - 179px);
+  right: 8.93%;
+  left: 8.93%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+}
+.dashboard {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.gridAltParent {
+  gap: var(--gap-3xs);
+}
+.frameContainer,
+.gridAltParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chevronDown1Icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-steelblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.frameWrapper {
+  position: absolute;
+  height: 3.91%;
+  width: 82.14%;
+  top: 16.99%;
+  right: 8.93%;
+  bottom: 79.1%;
+  left: 8.93%;
+  color: var(--dark-text-color-1);
+  font-family: var(--font-satoshi);
+}
+.userAlt4Parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 20px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkseagreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.menuItem1 {
+  position: absolute;
+  width: 82.14%;
+  top: calc(50% - 397px);
+  right: 8.93%;
+  left: 8.93%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+}
+.mainLogoParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-silver);
+  width: 280px;
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--medium-size);
+  color: var(--color-lightslategray);
+  font-family: var(--medium);
+}
+.profile1 {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  font-size: var(--font-size-19xl);
+  text-align: left;
+  display: inline-block;
+  width: 233px;
+  height: 45px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 41.53%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 58.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thomasAnree {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.groupParent,
+.thomasAnreeWrapper {
+  position: absolute;
+  height: 43.48%;
+  width: 50.27%;
+  top: 13.04%;
+  right: 49.73%;
+  bottom: 43.48%;
+  left: 0;
+}
+.groupParent {
+  height: 58.97%;
+  width: 15.78%;
+  top: 20.51%;
+  right: 1.12%;
+  bottom: 20.51%;
+  left: 83.1%;
+  color: var(--tailgrids-black-color);
+  font-family: var(--font-satoshi);
+}
+.user {
+  position: absolute;
+  top: 42px;
+  left: 966px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--medium);
+  display: inline-block;
+  width: 90px;
+  height: 16px;
+}
+.profileParent {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-sm);
+}
+.address,
+.emailAddress,
+.name {
+  position: absolute;
+  top: 418px;
+  left: 731px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 166px;
+  height: 37px;
+  filter: blur(4px);
+}
+.address,
+.emailAddress {
+  top: 505px;
+}
+.address {
+  top: 593px;
+  left: 733px;
+}
+.profileRemoveChangesChild {
+  position: absolute;
+  top: 406px;
+  left: 594px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-cadetblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 440px;
+  height: 293px;
+}
+.removesSuccessfully {
+  position: absolute;
+  top: 584px;
+  left: 641px;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+  width: 349px;
+}
+.checkRingChild {
+  position: relative;
+  border-radius: 50%;
+  border: 2px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 107px;
+  height: 94.3px;
+  z-index: 0;
+}
+.checkRingItem {
+  position: absolute;
+  margin: 0 !important;
+  height: 26.66%;
+  width: 34.33%;
+  top: 36.96%;
+  right: 32.84%;
+  bottom: 36.39%;
+  left: 32.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.checkRing {
+  position: absolute;
+  top: 455px;
+  left: 746px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-lg);
+  gap: var(--gap-3xs);
+  mix-blend-mode: screen;
+}
+.back {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 660px;
+  left: 614px;
+  width: 89px;
+  height: 30px;
+  font-size: var(--font-size-xl);
+  font-family: var(--medium);
+}
+.profileRemoveChanges {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

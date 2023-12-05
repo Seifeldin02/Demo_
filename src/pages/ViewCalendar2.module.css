@@ -1,0 +1,130 @@
+.back {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  color: var(--white);
+  font-family: var(--medium);
+}
+.viewCalendarChild {
+  position: absolute;
+  top: 777px;
+  left: 318px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 1084px;
+  height: 224px;
+}
+.upcomingEvents {
+  top: 794px;
+  left: 341px;
+  font-size: var(--font-size-19xl);
+  width: 310px;
+  height: 45px;
+}
+.elevateYourBrand,
+.june2023,
+.upcomingEvents {
+  position: absolute;
+  display: inline-block;
+}
+.june2023 {
+  top: 839px;
+  left: 341px;
+  font-size: var(--font-size-14xl);
+  width: 290px;
+  height: 45px;
+}
+.elevateYourBrand {
+  top: 794px;
+  left: 1008px;
+  width: 379px;
+  height: 141px;
+}
+.appDesignShowcase,
+.hrs,
+.suteraMallJohor {
+  position: absolute;
+  left: 341px;
+  font-family: var(--font-orienta);
+  display: inline-block;
+  width: 319px;
+  height: 31px;
+}
+.appDesignShowcase {
+  top: 873px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+}
+.hrs,
+.suteraMallJohor {
+  top: 902px;
+}
+.hrs {
+  top: 923px;
+  left: 340px;
+}
+.viewCalendarInner,
+.viewCalendarItem {
+  position: absolute;
+  border-radius: var(--br-2xl);
+}
+.viewCalendarItem {
+  top: 794px;
+  left: 653px;
+  width: 332px;
+  height: 193px;
+  object-fit: cover;
+}
+.viewCalendarInner {
+  top: 950px;
+  left: 1235px;
+  background-color: var(--color-dimgray);
+  width: 159px;
+  height: 43px;
+}
+.moreDetails {
+  position: absolute;
+  top: 961px;
+  left: 1252px;
+  color: var(--white);
+  display: inline-block;
+  width: 110px;
+  height: 22px;
+}
+.expandRightDoubleIcon {
+  position: absolute;
+  top: 960px;
+  left: 1362px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.viewCalendar {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-orelega-one);
+}

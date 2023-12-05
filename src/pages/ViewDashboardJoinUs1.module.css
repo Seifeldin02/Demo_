@@ -1,0 +1,157 @@
+.countMeIn,
+.joinUs,
+.step3Upload {
+  position: absolute;
+  top: 140px;
+  left: 323px;
+  display: inline-block;
+  width: 444px;
+}
+.countMeIn,
+.step3Upload {
+  top: 622px;
+}
+.step3Upload {
+  top: 663px;
+}
+.here {
+  color: var(--color-lightslategray);
+}
+.back,
+.termsConditionsContainer {
+  position: absolute;
+  display: inline-block;
+}
+.termsConditionsContainer {
+  top: 943px;
+  left: 323px;
+  font-size: var(--font-size-mid);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  font-size: var(--font-size-xl);
+  font-family: var(--medium);
+}
+.viewDashboardJoinUsChild {
+  position: absolute;
+  top: 197px;
+  left: 528px;
+  border-radius: var(--br-2xl);
+  width: 664px;
+  height: 409px;
+  object-fit: cover;
+}
+.rectangleDiv,
+.viewDashboardJoinUsChild1,
+.viewDashboardJoinUsInner,
+.viewDashboardJoinUsItem {
+  position: absolute;
+  top: 725px;
+  left: 292px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 350px;
+  height: 203px;
+}
+.rectangleDiv,
+.viewDashboardJoinUsChild1,
+.viewDashboardJoinUsInner {
+  left: 685px;
+}
+.rectangleDiv,
+.viewDashboardJoinUsChild1 {
+  left: 1078px;
+}
+.viewDashboardJoinUsChild1 {
+  top: 958px;
+  left: 1244px;
+  background-color: var(--color-dimgray);
+  width: 180px;
+  height: 43px;
+  cursor: pointer;
+}
+.saveProceed {
+  position: absolute;
+  top: 969px;
+  left: 1256px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 136px;
+  height: 22px;
+}
+.expandRightDoubleIcon {
+  position: absolute;
+  top: 968px;
+  left: 1392px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.viewDashboardJoinUsChild3,
+.viewDashboardJoinUsChild4,
+.viewDashboardJoinUsChild5 {
+  position: absolute;
+  top: 879px;
+  left: 298px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-cadetblue-100);
+  width: 339px;
+  height: 43px;
+}
+.viewDashboardJoinUsChild4,
+.viewDashboardJoinUsChild5 {
+  left: 691px;
+}
+.viewDashboardJoinUsChild5 {
+  left: 1084px;
+}
+.uploadElectricityBill,
+.uploadOilConsumption,
+.uploadWaterBill {
+  position: absolute;
+  top: 888px;
+  left: 365px;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  width: 207px;
+}
+.uploadElectricityBill,
+.uploadOilConsumption {
+  left: 751px;
+  width: 221px;
+}
+.uploadOilConsumption {
+  left: 1116px;
+  font-size: var(--font-size-xl);
+  width: 281px;
+}
+.viewDashboardJoinUs {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

@@ -1,0 +1,141 @@
+.back,
+.joinUs {
+  position: absolute;
+  display: inline-block;
+}
+.joinUs {
+  top: 140px;
+  left: 323px;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--medium);
+}
+.waterConsumptionCalculation {
+  position: absolute;
+  top: 194px;
+  left: 323px;
+  display: inline-block;
+  width: 503px;
+  height: 30px;
+}
+.averageProrateFactor,
+.averageWaterUsage,
+.calculationForCarbon {
+  position: absolute;
+  top: 241px;
+  left: 826px;
+  display: inline-block;
+  width: 503px;
+  height: 30px;
+}
+.averageWaterUsage,
+.calculationForCarbon {
+  top: 566px;
+  height: 80px;
+}
+.averageWaterUsage {
+  top: 401px;
+  height: 30px;
+}
+.viewDashboardWaterChild {
+  position: absolute;
+  top: 243px;
+  left: 323px;
+  border-radius: var(--br-2xl);
+  width: 447px;
+  height: 369px;
+  object-fit: cover;
+}
+.viewDashboardWaterItem {
+  position: absolute;
+  top: 530px;
+  left: 325px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-steelblue-300);
+  width: 444px;
+  height: 82px;
+}
+.billsUploadedBy {
+  position: absolute;
+  top: 560px;
+  left: 447px;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  display: inline-block;
+  width: 199px;
+}
+.rectangleDiv,
+.viewDashboardWaterChild1,
+.viewDashboardWaterInner {
+  position: absolute;
+  top: 285px;
+  left: 826px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 443px;
+  height: 80px;
+}
+.rectangleDiv,
+.viewDashboardWaterChild1 {
+  top: 450px;
+}
+.viewDashboardWaterChild1 {
+  top: 646px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 307px;
+  left: 987px;
+  display: inline-block;
+  width: 121px;
+  height: 30px;
+}
+.div1,
+.div2 {
+  top: 475px;
+  left: 1015px;
+  width: 56px;
+}
+.div2 {
+  top: 671px;
+  left: 1010px;
+}
+.viewDashboardWater {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-steelblue-100);
+  font-family: var(--font-orelega-one);
+}

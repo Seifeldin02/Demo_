@@ -1,0 +1,448 @@
+.profile,
+.userAlt4Icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.userAlt4Icon {
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.profile {
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 174px;
+}
+.userAlt4Parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 20px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-steelblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.menuItem {
+  position: absolute;
+  width: 15.97%;
+  top: calc(50% - 396px);
+  right: 82.29%;
+  left: 1.74%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+  font-family: var(--medium);
+}
+.imageRemovebgPreview1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 85px;
+  height: 89px;
+  object-fit: cover;
+}
+.iprk,
+.iskandarPuteriRendah {
+  position: absolute;
+  display: inline-block;
+}
+.iprk {
+  top: 0;
+  left: 3px;
+  text-decoration: underline;
+  width: 123px;
+  height: 45px;
+}
+.iskandarPuteriRendah {
+  top: 48px;
+  left: 0;
+  font-size: var(--font-size-6xs);
+  width: 129px;
+  height: 18px;
+}
+.iprkParent,
+.mainLogo {
+  position: absolute;
+  top: 18px;
+  left: 93px;
+  width: 129px;
+  height: 66px;
+}
+.mainLogo {
+  top: 6px;
+  left: 29px;
+  width: 222px;
+  height: 89px;
+  font-size: var(--font-size-30xl);
+}
+.signOut {
+  position: absolute;
+  top: 957px;
+  left: 76px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--medium);
+  color: var(--color-lightslategray);
+  display: inline-block;
+  width: 92px;
+  height: 30px;
+}
+.signOutSqureIcon {
+  position: absolute;
+  top: 957px;
+  left: 47px;
+  width: 24px;
+  height: 24px;
+}
+.adaptation,
+.carbonAnalysis {
+  left: 51px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 135px;
+  height: 27px;
+}
+.carbonAnalysis {
+  position: absolute;
+  top: 225px;
+  font-family: var(--medium);
+  color: var(--color-lightslategray);
+  cursor: pointer;
+}
+.adaptation {
+  top: 258px;
+}
+.adaptation,
+.joinUs,
+.menuItem1 {
+  position: absolute;
+  font-family: var(--medium);
+}
+.joinUs {
+  top: 292px;
+  left: 51px;
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-lightslategray);
+  display: inline-block;
+  width: 135px;
+  height: 27px;
+  cursor: pointer;
+}
+.menuItem1 {
+  width: 15.97%;
+  top: calc(50% - 179px);
+  right: 82.29%;
+  left: 1.74%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+}
+.dashboard {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.gridAltParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.chevronUp2Icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameParent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 20px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkseagreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.menuItem2 {
+  position: absolute;
+  width: 15.97%;
+  top: calc(50% - 338px);
+  right: 82.29%;
+  left: 1.74%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+  font-family: var(--font-satoshi);
+}
+.dashboard1 {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  font-size: var(--font-size-19xl);
+  text-align: left;
+  display: inline-block;
+  width: 233px;
+  height: 45px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 41.53%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 58.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thomasAnree {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.groupParent,
+.thomasAnreeWrapper {
+  position: absolute;
+  height: 43.48%;
+  width: 50.27%;
+  top: 13.04%;
+  right: 49.73%;
+  bottom: 43.48%;
+  left: 0;
+}
+.groupParent {
+  height: 58.97%;
+  width: 15.78%;
+  top: 20.51%;
+  right: 1.12%;
+  bottom: 20.51%;
+  left: 83.1%;
+  color: var(--tailgrids-black-color);
+  font-family: var(--font-satoshi);
+}
+.user {
+  position: absolute;
+  top: 42px;
+  left: 966px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--medium);
+  display: inline-block;
+  width: 90px;
+  height: 16px;
+}
+.dashboardParent {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-sm);
+}
+.adaptation1,
+.ourGoal {
+  position: absolute;
+  left: 323px;
+  display: inline-block;
+}
+.adaptation1 {
+  top: 140px;
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.ourGoal {
+  top: 209px;
+}
+.expectedWeather,
+.ourGoal,
+.safetyPrecautions {
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.expectedWeather {
+  position: absolute;
+  top: 525px;
+  left: 323px;
+  display: inline-block;
+}
+.safetyPrecautions {
+  top: 441px;
+  left: 762px;
+}
+.back,
+.currentWeather,
+.safetyPrecautions {
+  position: absolute;
+  display: inline-block;
+}
+.currentWeather {
+  top: 207px;
+  left: 762px;
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  font-size: var(--font-size-xl);
+  font-family: var(--medium);
+}
+.viewDashboardAdaptationChild,
+.viewDashboardAdaptationItem {
+  position: absolute;
+  top: 583px;
+  left: 323px;
+  border-radius: var(--br-2xl);
+  width: 397px;
+  height: 381px;
+  object-fit: cover;
+}
+.viewDashboardAdaptationItem {
+  top: 261px;
+  left: 762px;
+  width: 635px;
+  height: 147px;
+}
+.viewDashboardAdaptationInner {
+  position: absolute;
+  top: 258px;
+  left: 325px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 395px;
+  height: 229px;
+}
+.pledgesToIncrease {
+  position: absolute;
+  top: 276px;
+  left: 356px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 344px;
+  height: 249px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 495px;
+  left: 762px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 635px;
+  height: 469px;
+}
+.rainIcon {
+  position: absolute;
+  top: 505px;
+  left: 1043px;
+  width: 73px;
+  height: 82px;
+}
+.blankLine,
+.increasedDemandFor {
+  margin-block-start: 0;
+  margin-block-end: 3px;
+}
+.increasedDemandFor {
+  font-size: var(--font-size-xl);
+  color: var(--color-steelblue-100);
+}
+.socialImpactIncreasedContainer {
+  position: absolute;
+  top: 646px;
+  left: 819px;
+  white-space: pre-wrap;
+  text-align: center;
+  display: inline-block;
+  width: 522px;
+  height: 121px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.prepareAnEmergencyKitWith {
+  margin-bottom: 0;
+}
+.stayInformedAndFollowWeath {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  padding-left: var(--padding-8xl);
+  color: var(--color-steelblue-100);
+}
+.extremePrecipitationMonsoonContainer,
+.july2023,
+.whatShouldDoContainer {
+  position: absolute;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.whatShouldDoContainer {
+  top: 730px;
+  left: 822px;
+  font-family: var(--font-inherit);
+  width: 522px;
+  height: 225px;
+}
+.extremePrecipitationMonsoonContainer,
+.july2023 {
+  top: 587px;
+  left: 880px;
+  text-align: center;
+  width: 399px;
+  height: 33px;
+}
+.july2023 {
+  top: 629px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-cadetblue-200);
+}
+.viewDashboardAdaptation {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--medium-size);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

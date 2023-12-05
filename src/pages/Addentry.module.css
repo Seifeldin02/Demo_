@@ -1,0 +1,222 @@
+.back,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+}
+.back {
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 65px;
+  height: 30px;
+}
+.expandLeftIcon {
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backGroup,
+.backParent {
+  position: absolute;
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  font-family: var(--medium);
+}
+.backGroup {
+  cursor: pointer;
+}
+.addentryChild {
+  position: absolute;
+  top: 777px;
+  left: 318px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 1084px;
+  height: 224px;
+}
+.upcomingEvents {
+  position: absolute;
+  top: 827px;
+  left: 342px;
+  font-size: var(--font-size-19xl);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 310px;
+  height: 45px;
+}
+.june2023 {
+  top: 872px;
+  left: 342px;
+  font-size: var(--font-size-14xl);
+  width: 290px;
+  height: 45px;
+}
+.appDesignShowcase,
+.elevateYourBrand,
+.hrs,
+.june2023,
+.suteraMallJohor {
+  position: absolute;
+  color: var(--color-dimgray);
+  display: inline-block;
+}
+.elevateYourBrand {
+  top: 794px;
+  left: 1008px;
+  width: 379px;
+  height: 141px;
+}
+.appDesignShowcase,
+.hrs,
+.suteraMallJohor {
+  left: 342px;
+  font-family: var(--font-orienta);
+  width: 319px;
+  height: 31px;
+}
+.appDesignShowcase {
+  top: 906px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+}
+.hrs,
+.suteraMallJohor {
+  top: 935px;
+}
+.hrs {
+  top: 956px;
+  left: 341px;
+}
+.addentryInner,
+.addentryItem {
+  position: absolute;
+  border-radius: var(--br-2xl);
+}
+.addentryItem {
+  top: 794px;
+  left: 653px;
+  width: 332px;
+  height: 193px;
+  object-fit: cover;
+}
+.addentryInner {
+  top: 950px;
+  left: 1235px;
+  background-color: var(--color-dimgray);
+  width: 159px;
+  height: 43px;
+}
+.moreDetails {
+  position: absolute;
+  top: 961px;
+  left: 1252px;
+  display: inline-block;
+  width: 110px;
+  height: 22px;
+}
+.expandRightDoubleIcon {
+  position: absolute;
+  top: 960px;
+  left: 1362px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.editPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 94px;
+  height: 30px;
+}
+.expandLeftIcon2 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 24px;
+  height: 24px;
+}
+.editPageParent,
+.editParent {
+  position: absolute;
+  top: 104px;
+  left: 1300px;
+  width: 94px;
+  height: 30px;
+  font-family: var(--medium);
+}
+.editParent {
+  top: 794px;
+  left: 318px;
+  width: 89px;
+  cursor: pointer;
+  color: var(--color-steelblue-100);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 321px;
+  left: 809px;
+  border-radius: var(--br-2xl);
+  background-color: rgba(115, 146, 183, 0.89);
+  width: 333px;
+  height: 208px;
+}
+.june20231,
+.newEntry {
+  position: absolute;
+  top: 335px;
+  left: 832px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 207px;
+  height: 45px;
+}
+.june20231 {
+  top: 362px;
+}
+.addentryChild1,
+.addentryChild2 {
+  position: absolute;
+  top: 489px;
+  left: 1080px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 51px;
+  height: 29px;
+}
+.addentryChild2 {
+  left: 1004px;
+  width: 70px;
+}
+.discard,
+.save {
+  position: absolute;
+  top: 494px;
+  left: 1091px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  display: inline-block;
+  width: 35px;
+  height: 18px;
+}
+.discard {
+  left: 1014px;
+  width: 54px;
+}
+.addentry {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

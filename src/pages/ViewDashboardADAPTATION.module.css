@@ -1,0 +1,238 @@
+.editPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 94px;
+  height: 30px;
+}
+.editPageParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 24px;
+  height: 24px;
+}
+.editPageParent {
+  top: 109px;
+  left: 1303px;
+  width: 94px;
+  height: 30px;
+  font-family: var(--medium);
+}
+.adaptation,
+.ourGoal {
+  position: absolute;
+  left: 323px;
+  display: inline-block;
+}
+.adaptation {
+  top: 140px;
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.ourGoal {
+  top: 209px;
+}
+.expectedWeather,
+.ourGoal,
+.safetyPrecautions {
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.expectedWeather {
+  position: absolute;
+  top: 525px;
+  left: 323px;
+  display: inline-block;
+}
+.safetyPrecautions {
+  top: 441px;
+  left: 762px;
+}
+.back,
+.currentWeather,
+.safetyPrecautions {
+  position: absolute;
+  display: inline-block;
+}
+.currentWeather {
+  top: 207px;
+  left: 762px;
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  cursor: pointer;
+  font-family: var(--medium);
+}
+.viewDashboardAdaptationChild,
+.viewDashboardAdaptationItem {
+  position: absolute;
+  top: 583px;
+  left: 323px;
+  border-radius: var(--br-2xl);
+  width: 397px;
+  height: 381px;
+  object-fit: cover;
+}
+.viewDashboardAdaptationItem {
+  top: 261px;
+  left: 762px;
+  width: 635px;
+  height: 147px;
+}
+.viewDashboardAdaptationInner {
+  position: absolute;
+  top: 258px;
+  left: 325px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 395px;
+  height: 229px;
+}
+.pledgesToIncrease {
+  position: absolute;
+  top: 276px;
+  left: 356px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 344px;
+  height: 249px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 495px;
+  left: 762px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 635px;
+  height: 469px;
+}
+.rainIcon {
+  position: absolute;
+  top: 505px;
+  left: 1043px;
+  width: 73px;
+  height: 82px;
+}
+.blankLine,
+.increasedDemandFor {
+  margin-block-start: 0;
+  margin-block-end: 3px;
+}
+.increasedDemandFor {
+  font-size: var(--font-size-xl);
+  color: var(--color-steelblue-100);
+}
+.socialImpactIncreasedContainer {
+  position: absolute;
+  top: 646px;
+  left: 819px;
+  white-space: pre-wrap;
+  text-align: center;
+  display: inline-block;
+  width: 522px;
+  height: 121px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.prepareAnEmergencyKitWith {
+  margin-bottom: 0;
+}
+.stayInformedAndFollowWeath {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  padding-left: var(--padding-8xl);
+  color: var(--color-steelblue-100);
+}
+.extremePrecipitationMonsoonContainer,
+.july2023,
+.whatShouldDoContainer {
+  position: absolute;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.whatShouldDoContainer {
+  top: 730px;
+  left: 822px;
+  font-family: var(--font-inherit);
+  width: 522px;
+  height: 225px;
+}
+.extremePrecipitationMonsoonContainer,
+.july2023 {
+  top: 587px;
+  left: 880px;
+  text-align: center;
+  width: 399px;
+  height: 33px;
+}
+.july2023 {
+  top: 629px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-cadetblue-200);
+}
+.editContainer,
+.editGroup,
+.editParent,
+.groupDiv {
+  position: absolute;
+  top: 223px;
+  left: 655px;
+  width: 89px;
+  height: 30px;
+  color: var(--color-steelblue-100);
+  font-family: var(--medium);
+}
+.editContainer,
+.editGroup,
+.groupDiv {
+  top: 214px;
+  left: 1322px;
+}
+.editContainer,
+.groupDiv {
+  top: 452px;
+  left: 1318px;
+}
+.groupDiv {
+  top: 534px;
+  left: 655px;
+}
+.viewDashboardAdaptation {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

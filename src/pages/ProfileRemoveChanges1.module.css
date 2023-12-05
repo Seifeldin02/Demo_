@@ -1,0 +1,210 @@
+.profileRemoveChangesChild {
+  position: absolute;
+  height: 24.9%;
+  width: 17.85%;
+  top: 20.51%;
+  right: 53.47%;
+  bottom: 54.59%;
+  left: 28.68%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.personalDetails,
+.welcomeBackThomas {
+  position: absolute;
+  top: 126px;
+  left: 320px;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+  display: inline-block;
+  width: 444px;
+  filter: blur(4px);
+}
+.personalDetails {
+  top: 231px;
+  left: 709px;
+}
+.profileRemoveChangesInner,
+.profileRemoveChangesItem,
+.rectangleDiv {
+  position: absolute;
+  top: 297px;
+  left: 709px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  filter: blur(4px);
+  width: 611px;
+  height: 69px;
+}
+.profileRemoveChangesInner,
+.rectangleDiv {
+  top: 746px;
+  left: 899px;
+  background-color: var(--color-darkseagreen);
+  width: 162px;
+  height: 44px;
+}
+.rectangleDiv {
+  left: 674px;
+  background-color: var(--white);
+  width: 208px;
+}
+.profileRemoveChangesChild1,
+.profileRemoveChangesChild2,
+.profileRemoveChangesChild3,
+.profileRemoveChangesChild4,
+.profileRemoveChangesChild5 {
+  position: absolute;
+  top: 397px;
+  left: 709px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  filter: blur(4px);
+  width: 611px;
+  height: 69px;
+}
+.profileRemoveChangesChild2,
+.profileRemoveChangesChild3,
+.profileRemoveChangesChild4,
+.profileRemoveChangesChild5 {
+  top: 484px;
+}
+.profileRemoveChangesChild3,
+.profileRemoveChangesChild4,
+.profileRemoveChangesChild5 {
+  top: 572px;
+  left: 711px;
+  height: 143px;
+}
+.profileRemoveChangesChild4,
+.profileRemoveChangesChild5 {
+  top: 491px;
+  left: 397px;
+  width: 269px;
+  height: 78px;
+}
+.profileRemoveChangesChild5 {
+  top: 599px;
+}
+.address,
+.emailAddress,
+.name,
+.username {
+  position: absolute;
+  top: 318px;
+  left: 731px;
+  display: inline-block;
+  width: 166px;
+  height: 37px;
+  filter: blur(4px);
+}
+.address,
+.emailAddress,
+.name {
+  top: 418px;
+}
+.address,
+.emailAddress {
+  top: 505px;
+}
+.address {
+  top: 593px;
+  left: 733px;
+}
+.age {
+  top: 512px;
+  left: 419px;
+  width: 166px;
+}
+.age,
+.discardChanges,
+.hpNo,
+.saveDetails {
+  position: absolute;
+  display: inline-block;
+  height: 37px;
+  filter: blur(4px);
+}
+.hpNo {
+  top: 620px;
+  left: 419px;
+  width: 166px;
+}
+.discardChanges,
+.saveDetails {
+  top: 753px;
+}
+.saveDetails {
+  left: 916px;
+  color: var(--white);
+  width: 140px;
+}
+.discardChanges {
+  left: 687px;
+  width: 190px;
+}
+.profileRemoveChangesChild6 {
+  position: absolute;
+  top: 406px;
+  left: 594px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-cadetblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 440px;
+  height: 293px;
+}
+.profileRemoveChangesChild7,
+.profileRemoveChangesChild8 {
+  position: absolute;
+  top: 582px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 101px;
+  height: 51px;
+}
+.profileRemoveChangesChild7 {
+  left: 826px;
+  cursor: pointer;
+}
+.profileRemoveChangesChild8 {
+  left: 695px;
+}
+.discardChanges1,
+.no,
+.yes {
+  position: absolute;
+  top: 500px;
+  left: 661px;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  display: inline-block;
+  width: 310px;
+}
+.no,
+.yes {
+  top: 590px;
+  left: 846px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-cadetblue-100);
+  width: 71px;
+}
+.no {
+  top: 589px;
+  left: 726px;
+  width: 52px;
+}
+.profileRemoveChanges {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-steelblue-100);
+  font-family: var(--font-orelega-one);
+}

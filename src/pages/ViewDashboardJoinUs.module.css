@@ -1,0 +1,177 @@
+.joinUs {
+  top: 140px;
+  left: 323px;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  width: 444px;
+}
+.back,
+.joinUs,
+.participantDetails {
+  position: absolute;
+  display: inline-block;
+}
+.participantDetails {
+  top: 197px;
+  left: 323px;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--medium);
+}
+.viewDashboardJoinUsChild {
+  position: absolute;
+  top: 254px;
+  left: 323px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 476px;
+  height: 656px;
+}
+.rectangleIcon,
+.viewDashboardJoinUsInner,
+.viewDashboardJoinUsItem {
+  position: absolute;
+  top: 193px;
+  left: 860px;
+  border-radius: var(--br-2xl);
+  width: 333px;
+  height: 208px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangleIcon,
+.viewDashboardJoinUsInner {
+  top: 466px;
+}
+.rectangleIcon {
+  top: 740px;
+  width: 343px;
+  height: 204px;
+}
+.doneRingRoundIcon {
+  position: absolute;
+  top: 693px;
+  left: 350px;
+  width: 35px;
+  height: 34px;
+}
+.doneRingRoundIcon1,
+.doneRingRoundIcon2,
+.ellipseIcon {
+  position: absolute;
+  top: 740px;
+  left: 350px;
+  width: 35px;
+  height: 34px;
+}
+.doneRingRoundIcon2,
+.ellipseIcon {
+  top: 787px;
+}
+.ellipseIcon {
+  height: 16.5%;
+  width: 12.43%;
+  top: 28.42%;
+  right: 54.44%;
+  bottom: 55.08%;
+  left: 33.13%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nameAmirahAbdullah {
+  margin-block-start: 0;
+  margin-block-end: 3px;
+}
+.electricityConsumptionBill,
+.nameAmirahAbdullahContainer {
+  position: absolute;
+  top: 471px;
+  left: 350px;
+  display: inline-block;
+  width: 422px;
+  height: 198px;
+}
+.electricityConsumptionBill {
+  top: 695px;
+  left: 397px;
+  width: 319px;
+  height: 30px;
+  cursor: pointer;
+}
+.electricityConsumptionBill1,
+.waterConsumptionBill {
+  position: absolute;
+  top: 156px;
+  left: 860px;
+  display: inline-block;
+  width: 319px;
+  height: 30px;
+}
+.waterConsumptionBill {
+  top: 740px;
+  left: 397px;
+  width: 275px;
+  cursor: pointer;
+}
+.cookingOilwasteConsumption,
+.waterConsumptionBill1 {
+  position: absolute;
+  top: 429px;
+  left: 860px;
+  display: inline-block;
+  width: 275px;
+  height: 30px;
+}
+.cookingOilwasteConsumption {
+  top: 790px;
+  left: 397px;
+  cursor: pointer;
+}
+.cookingOilwasteConsumption1 {
+  position: absolute;
+  top: 698px;
+  left: 860px;
+  display: inline-block;
+  width: 476px;
+  height: 30px;
+}
+.viewDashboardJoinUs {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-steelblue-100);
+  font-family: var(--font-orelega-one);
+}

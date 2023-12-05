@@ -1,0 +1,140 @@
+.back,
+.joinUs {
+  position: absolute;
+  display: inline-block;
+}
+.joinUs {
+  top: 140px;
+  left: 323px;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--medium);
+}
+.cookingOilwasteConsumption {
+  position: absolute;
+  top: 194px;
+  left: 323px;
+  display: inline-block;
+  width: 625px;
+  height: 30px;
+}
+.viewDashboardOilWasteChild,
+.viewDashboardOilWasteItem {
+  position: absolute;
+  left: 351px;
+  border-radius: var(--br-2xl);
+  width: 369px;
+}
+.viewDashboardOilWasteChild {
+  top: 252px;
+  height: 229px;
+  object-fit: cover;
+}
+.viewDashboardOilWasteItem {
+  top: 399px;
+  background-color: var(--color-steelblue-300);
+  height: 82px;
+}
+.billsUploadedBy {
+  position: absolute;
+  top: 423px;
+  left: 436px;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  display: inline-block;
+  width: 199px;
+}
+.calculationForCarbon,
+.massOfOils,
+.totalOilsCollected {
+  position: absolute;
+  top: 252px;
+  left: 767px;
+  display: inline-block;
+  width: 503px;
+  height: 30px;
+}
+.calculationForCarbon,
+.totalOilsCollected {
+  top: 577px;
+  height: 80px;
+}
+.totalOilsCollected {
+  top: 412px;
+  height: 30px;
+}
+.rectangleDiv,
+.viewDashboardOilWasteChild1,
+.viewDashboardOilWasteInner {
+  position: absolute;
+  top: 296px;
+  left: 767px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 443px;
+  height: 80px;
+}
+.rectangleDiv,
+.viewDashboardOilWasteChild1 {
+  top: 461px;
+}
+.viewDashboardOilWasteChild1 {
+  top: 657px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 321px;
+  left: 973px;
+  display: inline-block;
+  width: 28px;
+  height: 30px;
+}
+.div1,
+.div2 {
+  top: 486px;
+  left: 956px;
+  width: 56px;
+}
+.div2 {
+  top: 682px;
+  left: 951px;
+}
+.viewDashboardOilWaste {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-steelblue-100);
+  font-family: var(--font-orelega-one);
+}

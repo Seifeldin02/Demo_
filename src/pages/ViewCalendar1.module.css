@@ -1,0 +1,125 @@
+.back {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  color: var(--white);
+}
+.viewCalendarChild {
+  position: absolute;
+  top: 171px;
+  left: 303px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 1084px;
+  height: 831px;
+}
+.areYouLooking,
+.june2023,
+.upcomingEvents {
+  position: absolute;
+  top: 194px;
+  left: 341px;
+  font-size: var(--font-size-19xl);
+  font-family: var(--font-orelega-one);
+  display: inline-block;
+  width: 310px;
+  height: 45px;
+}
+.areYouLooking,
+.june2023 {
+  top: 254px;
+  left: 919px;
+  font-size: var(--font-size-14xl);
+  width: 290px;
+}
+.areYouLooking {
+  top: 609px;
+  left: 360px;
+  font-size: var(--font-size-6xl);
+  width: 989px;
+  height: 282px;
+}
+.appDesignShowcase,
+.hrs,
+.suteraMallJohor {
+  position: absolute;
+  left: 919px;
+  font-family: var(--font-orienta);
+  display: inline-block;
+  width: 319px;
+  height: 31px;
+}
+.appDesignShowcase {
+  top: 299px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+}
+.hrs,
+.suteraMallJohor {
+  top: 330px;
+}
+.hrs {
+  top: 352px;
+}
+.viewCalendarItem {
+  position: absolute;
+  top: 258px;
+  left: 356px;
+  border-radius: var(--br-2xl);
+  width: 539px;
+  height: 310px;
+  object-fit: cover;
+}
+.exportIntoPdf,
+.exportIntoPng {
+  position: absolute;
+  top: 957px;
+  left: 1246px;
+  font-size: var(--medium-size);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-lightslategray);
+  display: inline-block;
+  width: 126px;
+  height: 30px;
+}
+.exportIntoPng {
+  top: 958px;
+  left: 1114px;
+}
+.importIcon {
+  position: absolute;
+  top: 957px;
+  left: 1084px;
+  width: 24px;
+  height: 24px;
+}
+.viewCalendar {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  font-family: var(--medium);
+}

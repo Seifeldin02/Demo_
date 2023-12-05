@@ -1,0 +1,127 @@
+import { FunctionComponent, useCallback } from "react";
+import { useNavigate } from "react-router-dom";
+import DashboardContainer from "../components/DashboardContainer";
+import MondayContainer from "../components/MondayContainer";
+import Header from "../components/Header";
+import styles from "./Managecalendar.module.css";
+
+const Managecalendar: FunctionComponent = () => {
+  const navigate = useNavigate();
+
+  const onMenuItemContainer1Click = useCallback(() => {
+    navigate("/profilepersonal-details-staff");
+  }, [navigate]);
+
+  const onCarbonAnalysisTextClick = useCallback(() => {
+    navigate("/manage-carbon-analysis");
+  }, [navigate]);
+
+  const onAdaptationTextClick = useCallback(() => {
+    navigate("/view-dashboardadaptation1");
+  }, [navigate]);
+
+  const onJoinUsTextClick = useCallback(() => {
+    navigate("/view-dashboardjoin-us-participant-list");
+  }, [navigate]);
+
+  const onGroupContainer5Click = useCallback(() => {
+    navigate("/addentry");
+  }, [navigate]);
+
+  const onGroupContainer1Click = useCallback(() => {
+    navigate("/view-dashboardjoin-us-participant-list");
+  }, [navigate]);
+
+  const onExpandRightDoubleIconClick = useCallback(() => {
+    navigate("/view-calendar");
+  }, [navigate]);
+
+  return (
+    <div className={styles.managecalendar}>
+      <DashboardContainer
+        frameDivCursor="unset"
+        signOutSqureIconCursor="unset"
+        adaptationCursor="unset"
+        joinUsCursor="unset"
+        propCursor="unset"
+      />
+      <DashboardContainer
+        frameDivCursor="pointer"
+        signOutSqureIconCursor="unset"
+        adaptationCursor="pointer"
+        joinUsCursor="pointer"
+        propCursor="pointer"
+        onMenuItemContainer4Click={onMenuItemContainer1Click}
+        onCarbonAnalysisText1Click={onCarbonAnalysisTextClick}
+        onAdaptationText1Click={onAdaptationTextClick}
+        onJoinUsText1Click={onJoinUsTextClick}
+      />
+      <MondayContainer
+        rectangleDivCursor="pointer"
+        onGroupContainer7Click={onGroupContainer5Click}
+      />
+      <Header
+        componentTitle="CALENDAR"
+        userLabel="User"
+        propWidth="207px"
+        propRight="1.72%"
+        propLeft="82.5%"
+        propLeft1="959px"
+      />
+      <Header
+        componentTitle="CALENDAR"
+        userLabel="Staff"
+        propWidth="207px"
+        propRight="1.72%"
+        propLeft="82.5%"
+        propLeft1="959px"
+      />
+      <div className={styles.backParent}>
+        <div className={styles.back}>back</div>
+        <img className={styles.expandLeftIcon} alt="" src="/expand-left.svg" />
+      </div>
+      <div className={styles.backGroup} onClick={onGroupContainer1Click}>
+        <div className={styles.back}>back</div>
+        <img className={styles.expandLeftIcon} alt="" src="/expand-left.svg" />
+      </div>
+      <div className={styles.managecalendarChild} />
+      <div className={styles.upcomingEvents}>Upcoming Events</div>
+      <div className={styles.june2023}>21-23 June 2023</div>
+      <div className={styles.elevateYourBrand}>
+        Elevate your brand with stunning app designs that captivate and engage
+        your target audience. Our team of talented designers creates visually
+        compelling and intuitive interfaces that bring your app to life.
+      </div>
+      <div className={styles.appDesignShowcase}>App Design Showcase</div>
+      <div className={styles.suteraMallJohor}>Sutera Mall, Johor Bahru</div>
+      <div className={styles.hrs}>0800 - 1700 hrs</div>
+      <img
+        className={styles.managecalendarItem}
+        alt=""
+        src="/rectangle-252@2x.png"
+      />
+      <div className={styles.managecalendarInner} />
+      <div className={styles.moreDetails}>more details</div>
+      <img
+        className={styles.expandRightDoubleIcon}
+        alt=""
+        src="/expand-right-double1.svg"
+        onClick={onExpandRightDoubleIconClick}
+      />
+      <div className={styles.editPageParent}>
+        <div className={styles.editPage}>edit page</div>
+        <img
+          className={styles.expandLeftIcon2}
+          alt=""
+          src="/expand-left1.svg"
+        />
+      </div>
+      <div className={styles.editParent}>
+        <div className={styles.back}>edit</div>
+        <img className={styles.expandLeftIcon} alt="" src="/expand-left1.svg" />
+      </div>
+    </div>
+  );
+};
+
+export default Managecalendar;

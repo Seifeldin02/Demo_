@@ -1,0 +1,6 @@
+.vectorDiv {
+  border: 2px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 11px;
+  height: 12px;
+}

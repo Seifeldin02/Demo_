@@ -1,0 +1,83 @@
+.otpRegistrationChild {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  overflow: hidden;
+}
+.otpRegistrationItem {
+  position: absolute;
+  top: 391px;
+  left: 500px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 440px;
+  height: 215px;
+}
+.anOtpNumber,
+.enterOtpNumber,
+.sendOtpUsing {
+  position: absolute;
+  top: 411px;
+  left: 521px;
+  display: inline-block;
+  width: 407px;
+}
+.enterOtpNumber,
+.sendOtpUsing {
+  top: 453px;
+  left: 636px;
+  width: 178px;
+}
+.sendOtpUsing {
+  top: 615px;
+  left: 778px;
+  font-size: var(--medium-size);
+  color: var(--white);
+  width: 159px;
+}
+.otpRegistrationInner,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-2xl);
+}
+.otpRegistrationInner {
+  top: 539px;
+  left: 509px;
+  background-color: var(--color-cadetblue-100);
+  width: 422px;
+  height: 56px;
+  cursor: pointer;
+}
+.rectangleDiv {
+  top: 479px;
+  left: 524px;
+  background-color: var(--white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-cadetblue-100);
+  box-sizing: border-box;
+  width: 391px;
+  height: 44px;
+}
+.signMeUp {
+  position: absolute;
+  top: 552px;
+  left: 651px;
+  font-size: var(--font-size-8xl);
+  color: var(--white);
+  display: inline-block;
+  width: 142px;
+}
+.otpRegistration {
+  position: relative;
+  background-color: var(--color-cadetblue-100);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-cadetblue-100);
+  font-family: var(--font-orelega-one);
+}

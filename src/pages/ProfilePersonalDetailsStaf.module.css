@@ -1,0 +1,180 @@
+.profilePersonalDetailsStafChild {
+  position: absolute;
+  height: 24.12%;
+  width: 17.29%;
+  top: 20.9%;
+  right: 53.75%;
+  bottom: 54.98%;
+  left: 28.96%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.personalDetails,
+.welcomeBackAnree {
+  position: absolute;
+  top: 126px;
+  left: 320px;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+  display: inline-block;
+  width: 444px;
+}
+.personalDetails {
+  top: 231px;
+  left: 709px;
+}
+.profilePersonalDetailsStafItem {
+  position: absolute;
+  top: 297px;
+  left: 709px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 611px;
+  height: 69px;
+}
+.profilePersonalDetailsStafInner,
+.rectangleDiv {
+  position: absolute;
+  top: 746px;
+  left: 899px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-darkseagreen);
+  width: 162px;
+  height: 44px;
+}
+.rectangleDiv {
+  left: 674px;
+  background-color: var(--white);
+  width: 208px;
+  cursor: pointer;
+}
+.profilePersonalDetailsStafChild1,
+.profilePersonalDetailsStafChild2 {
+  position: absolute;
+  top: 397px;
+  left: 709px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 611px;
+  height: 69px;
+}
+.profilePersonalDetailsStafChild2 {
+  top: 484px;
+}
+.profilePersonalDetailsStafChild3,
+.profilePersonalDetailsStafChild4,
+.profilePersonalDetailsStafChild5 {
+  position: absolute;
+  top: 572px;
+  left: 711px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  width: 611px;
+  height: 143px;
+}
+.profilePersonalDetailsStafChild4,
+.profilePersonalDetailsStafChild5 {
+  top: 491px;
+  left: 397px;
+  width: 269px;
+  height: 78px;
+}
+.profilePersonalDetailsStafChild5 {
+  top: 599px;
+}
+.address,
+.emailAddress,
+.name,
+.username {
+  position: absolute;
+  top: 318px;
+  left: 731px;
+  display: inline-block;
+  width: 166px;
+  height: 37px;
+}
+.address,
+.emailAddress,
+.name {
+  top: 418px;
+}
+.address,
+.emailAddress {
+  top: 505px;
+}
+.address {
+  top: 593px;
+  left: 733px;
+}
+.age {
+  top: 512px;
+  left: 419px;
+  width: 166px;
+}
+.age,
+.back,
+.discardChanges,
+.hpNo,
+.saveDetails {
+  position: absolute;
+  display: inline-block;
+  height: 37px;
+}
+.hpNo {
+  top: 620px;
+  left: 419px;
+  width: 166px;
+}
+.back,
+.discardChanges,
+.saveDetails {
+  top: 753px;
+}
+.saveDetails {
+  left: 916px;
+  color: var(--white);
+  width: 140px;
+}
+.back,
+.discardChanges {
+  left: 687px;
+  width: 190px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 100px;
+  left: 320px;
+  width: 89px;
+  height: 30px;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--medium);
+}
+.profilePersonalDetailsStaf {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-steelblue-100);
+  font-family: var(--font-orelega-one);
+}

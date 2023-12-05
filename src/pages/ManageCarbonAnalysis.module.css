@@ -1,0 +1,294 @@
+.dashboard {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  font-size: var(--font-size-19xl);
+  text-align: left;
+  display: inline-block;
+  width: 233px;
+  height: 45px;
+}
+.groupChild {
+  position: absolute;
+  height: 74.07%;
+  width: 10.93%;
+  top: 25.93%;
+  right: 0;
+  bottom: 0;
+  left: 89.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thomasAnree {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.groupParent,
+.thomasAnreeWrapper {
+  position: absolute;
+  height: 74.07%;
+  width: 50.27%;
+  top: 0;
+  right: 49.73%;
+  bottom: 25.93%;
+  left: 0;
+}
+.groupParent {
+  height: 34.62%;
+  width: 15.78%;
+  top: 28.21%;
+  right: 1.12%;
+  bottom: 37.18%;
+  left: 83.1%;
+  color: var(--tailgrids-black-color);
+  font-family: var(--font-satoshi);
+}
+.staff {
+  position: absolute;
+  top: 42px;
+  left: 966px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--medium);
+  display: inline-block;
+  width: 90px;
+  height: 16px;
+}
+.frameChild {
+  position: absolute;
+  height: 58.97%;
+  width: 3.97%;
+  top: 20.51%;
+  right: 3.79%;
+  bottom: 20.51%;
+  left: 92.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboardParent {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  text-align: right;
+  font-size: var(--font-size-sm);
+}
+.carbonEmissionAnalysis {
+  position: absolute;
+  top: 140px;
+  left: 323px;
+  display: inline-block;
+  width: 444px;
+}
+.carbonEmissionAnalysis,
+.details,
+.ghgEmissions {
+  font-size: var(--font-size-19xl);
+}
+.ghgEmissions {
+  position: absolute;
+  top: 637px;
+  left: 323px;
+  display: inline-block;
+  width: 444px;
+}
+.details {
+  top: 740px;
+  left: 996px;
+  width: 294px;
+}
+.back,
+.details,
+.projectImpact {
+  position: absolute;
+  display: inline-block;
+}
+.projectImpact {
+  top: 172px;
+  left: 996px;
+  font-size: var(--font-size-19xl);
+  width: 444px;
+}
+.back {
+  top: 0;
+  left: 24px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 65px;
+  height: 30px;
+}
+.backParent,
+.expandLeftIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.backParent {
+  top: 110px;
+  left: 299px;
+  width: 89px;
+  height: 30px;
+  cursor: pointer;
+  font-family: var(--medium);
+}
+.manageCarbonAnalysisChild {
+  position: absolute;
+  top: 184px;
+  left: 323px;
+  border-radius: var(--br-2xl);
+  width: 651px;
+  height: 419px;
+  object-fit: cover;
+}
+.manageCarbonAnalysisItem {
+  position: absolute;
+  top: 222px;
+  left: 996px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  width: 395px;
+  height: 492px;
+}
+.location {
+  margin-block-start: 0;
+  margin-block-end: 3px;
+}
+.details1 {
+  margin: 0;
+}
+.locationCoodinateZoneContainer {
+  position: absolute;
+  top: 261px;
+  left: 1027px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 263px;
+  height: 459px;
+}
+.rectangleDiv,
+.rectangleIcon {
+  position: absolute;
+  border-radius: var(--br-2xl);
+}
+.rectangleIcon {
+  top: 700px;
+  left: 323px;
+  width: 652px;
+  height: 279px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  top: 798px;
+  left: 996px;
+  background-color: var(--color-mintcream);
+  width: 395px;
+  height: 181px;
+}
+.by2030,
+.div,
+.potentialReductionOn {
+  position: absolute;
+  top: 811px;
+  left: 1019px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-steelblue-100);
+  text-align: center;
+  display: inline-block;
+  width: 350px;
+  height: 58px;
+}
+.by2030,
+.div {
+  top: 926px;
+  height: 33px;
+}
+.div {
+  top: 869px;
+  left: 1142px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gray-100);
+  width: 104px;
+  height: 49px;
+}
+.editContainer,
+.editGroup,
+.editParent {
+  width: 89px;
+  color: var(--color-steelblue-100);
+  font-family: var(--medium);
+}
+.editParent {
+  position: absolute;
+  top: 177px;
+  left: 1322px;
+  height: 30px;
+}
+.editContainer,
+.editGroup {
+  left: 907px;
+}
+.editGroup {
+  position: absolute;
+  top: 151px;
+  height: 30px;
+}
+.editContainer {
+  top: 648px;
+}
+.editContainer,
+.editPage,
+.groupDiv {
+  position: absolute;
+  height: 30px;
+}
+.groupDiv {
+  top: 751px;
+  left: 1290px;
+  width: 89px;
+  color: var(--color-steelblue-100);
+  font-family: var(--medium);
+}
+.editPage {
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 94px;
+}
+.editPageParent,
+.expandLeftIcon5 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 24px;
+  height: 24px;
+}
+.editPageParent {
+  top: 109px;
+  left: 1313px;
+  width: 94px;
+  height: 30px;
+  font-family: var(--medium);
+}
+.manageCarbonAnalysis {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

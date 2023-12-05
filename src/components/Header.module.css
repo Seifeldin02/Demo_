@@ -1,0 +1,73 @@
+.profile {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  font-size: var(--font-size-19xl);
+  text-align: left;
+  display: inline-block;
+  width: 233px;
+  height: 45px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 41.53%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 58.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thomasAnree {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.groupParent,
+.thomasAnreeWrapper {
+  position: absolute;
+  height: 43.48%;
+  width: 50.27%;
+  top: 13.04%;
+  right: 49.73%;
+  bottom: 43.48%;
+  left: 0;
+}
+.groupParent {
+  height: 58.97%;
+  width: 15.78%;
+  top: 20.51%;
+  right: 1.12%;
+  bottom: 20.51%;
+  left: 83.1%;
+  color: var(--tailgrids-black-color);
+  font-family: var(--font-satoshi);
+}
+.user {
+  position: absolute;
+  top: 42px;
+  left: 966px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--medium);
+  display: inline-block;
+  width: 90px;
+  height: 16px;
+}
+.profileParent {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

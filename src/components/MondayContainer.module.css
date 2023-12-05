@@ -1,0 +1,599 @@
+.groupChild {
+  border-radius: var(--br-11xs);
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+  border: 1px solid var(--stroke);
+  box-sizing: border-box;
+}
+.groupChild,
+.groupItem,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1084px;
+  height: 597px;
+}
+.groupItem {
+  background-color: var(--color-dimgray);
+  height: 56.4px;
+}
+.friday,
+.monday,
+.saturday,
+.sunday,
+.thursday,
+.tuesday,
+.wednesday {
+  position: absolute;
+  top: 16.9px;
+  left: 51.9px;
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+  width: 54.7px;
+  height: 22.6px;
+}
+.friday,
+.saturday,
+.sunday,
+.thursday,
+.tuesday,
+.wednesday {
+  left: 206.6px;
+}
+.friday,
+.saturday,
+.sunday,
+.thursday,
+.wednesday {
+  left: 356.7px;
+  width: 78.8px;
+}
+.friday,
+.saturday,
+.sunday,
+.thursday {
+  left: 528.1px;
+  width: 62.1px;
+}
+.friday,
+.saturday,
+.sunday {
+  left: 684.7px;
+  width: 40.8px;
+}
+.saturday,
+.sunday {
+  left: 820.9px;
+  width: 59.3px;
+}
+.sunday {
+  left: 980.2px;
+  width: 50px;
+}
+.groupChild1,
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupInner,
+.lineDiv {
+  position: absolute;
+  top: 55.9px;
+  left: 157px;
+  border-right: 1px solid var(--stroke);
+  box-sizing: border-box;
+  width: 1px;
+  height: 541.6px;
+}
+.groupChild1,
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.lineDiv {
+  left: 308.9px;
+}
+.groupChild1,
+.groupChild2,
+.groupChild3,
+.groupChild4 {
+  left: 481.3px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4 {
+  left: 634.1px;
+}
+.groupChild3,
+.groupChild4 {
+  left: 774.1px;
+}
+.groupChild4 {
+  left: 926px;
+}
+.groupChild5,
+.groupChild6,
+.groupChild7,
+.groupChild8 {
+  position: absolute;
+  top: 159.3px;
+  left: -0.5px;
+  border-top: 1px solid var(--stroke);
+  box-sizing: border-box;
+  width: 1085px;
+  height: 1px;
+}
+.groupChild6,
+.groupChild7,
+.groupChild8 {
+  top: 276.8px;
+}
+.groupChild7,
+.groupChild8 {
+  top: 380.3px;
+}
+.groupChild8 {
+  top: 494px;
+}
+.div,
+.div1,
+.div10,
+.div11,
+.div12,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 79.9px;
+  left: 23.2px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 16.7px;
+  height: 22.6px;
+}
+.div1,
+.div10,
+.div11,
+.div12,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 183.3px;
+  width: 9.3px;
+}
+.div10,
+.div11,
+.div12,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 300.9px;
+  width: 15.8px;
+}
+.div10,
+.div11,
+.div12,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 404.3px;
+  width: 13.9px;
+}
+.div10,
+.div11,
+.div12,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 518px;
+  width: 18.5px;
+}
+.div10,
+.div11,
+.div12,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 79.9px;
+  left: 180.7px;
+}
+.div10,
+.div11,
+.div12,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 183.3px;
+  width: 10.2px;
+}
+.div10,
+.div11,
+.div12,
+.div7,
+.div8,
+.div9 {
+  top: 300.9px;
+  width: 11.1px;
+}
+.div10,
+.div11,
+.div12,
+.div8,
+.div9 {
+  top: 404.3px;
+  width: 14.8px;
+}
+.div10,
+.div11,
+.div12,
+.div9 {
+  top: 518px;
+  width: 17.6px;
+}
+.div10,
+.div11,
+.div12 {
+  top: 79.9px;
+  left: 332.6px;
+}
+.div11,
+.div12 {
+  top: 183.3px;
+  width: 9.3px;
+}
+.div12 {
+  top: 300.9px;
+  width: 14.8px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 380.8px;
+  left: 310.4px;
+  background-color: var(--gray);
+  width: 171.4px;
+  height: 112.8px;
+}
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  position: absolute;
+  top: 404.3px;
+  left: 332.6px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 14.8px;
+  height: 22.6px;
+}
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 518px;
+  width: 17.6px;
+}
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 79.9px;
+  left: 504.9px;
+  width: 19.5px;
+}
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 183.3px;
+  width: 9.3px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 300.9px;
+  width: 13.9px;
+}
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 404.3px;
+  width: 19.5px;
+}
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 518px;
+  width: 16.7px;
+}
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 79.9px;
+  left: 657.8px;
+  width: 13.9px;
+}
+.div21,
+.div22,
+.div23 {
+  top: 183.3px;
+  width: 8.3px;
+}
+.div22,
+.div23 {
+  top: 300.9px;
+  width: 14.8px;
+}
+.div23 {
+  top: 404.3px;
+}
+.groupChild9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray);
+  width: 372.5px;
+  height: 53.6px;
+}
+.appDesign,
+.dec23 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.appDesign {
+  top: 0;
+  line-height: 24px;
+  font-weight: 500;
+  width: 77.8px;
+  height: 22.6px;
+}
+.dec23 {
+  top: 21.6px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  color: var(--text-color);
+  width: 91.7px;
+  height: 18.8px;
+}
+.appDesignParent,
+.groupChild10 {
+  position: absolute;
+  top: 5.6px;
+  left: 16.7px;
+  width: 91.7px;
+  height: 40.4px;
+}
+.groupChild10 {
+  top: 0;
+  left: 0;
+  background-color: var(--primary);
+  width: 2.8px;
+  height: 53.6px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 426.8px;
+  left: 693px;
+  width: 372.5px;
+  height: 53.6px;
+}
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  position: absolute;
+  top: 518px;
+  left: 657.8px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 18.5px;
+  height: 22.6px;
+}
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 79.9px;
+  left: 797.7px;
+  width: 5.6px;
+}
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 183.3px;
+  width: 9.3px;
+}
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 300.9px;
+  width: 14.8px;
+}
+.div28,
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 404.3px;
+  width: 17.6px;
+}
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 518px;
+}
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 79.9px;
+  left: 949.7px;
+  width: 9.3px;
+}
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 183.3px;
+}
+.div32,
+.div33,
+.div34 {
+  top: 300.9px;
+  width: 14.8px;
+}
+.div33,
+.div34 {
+  top: 404.3px;
+  width: 17.6px;
+}
+.div34 {
+  top: 518px;
+  width: 19.5px;
+}
+.groupChild11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray);
+  width: 253.9px;
+  height: 53.6px;
+}
+.dec5,
+.redesignWebsite {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.redesignWebsite {
+  top: 0;
+  line-height: 24px;
+  font-weight: 500;
+  width: 119.5px;
+  height: 22.6px;
+}
+.dec5 {
+  top: 21.6px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  color: var(--text-color);
+  width: 81.5px;
+  height: 18.8px;
+}
+.redesignWebsiteParent {
+  position: absolute;
+  top: 5.6px;
+  left: 16.7px;
+  width: 119.5px;
+  height: 40.4px;
+}
+.groupParent,
+.rectangleGroup {
+  position: absolute;
+  top: 209.7px;
+  left: 209.4px;
+  width: 253.9px;
+  height: 53.6px;
+}
+.groupParent {
+  top: 148px;
+  left: 318px;
+  width: 1084px;
+  height: 597px;
+  text-align: left;
+  font-size: var(--medium-size);
+  color: var(--dark);
+  font-family: var(--font-satoshi);
+}

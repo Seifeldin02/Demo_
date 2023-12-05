@@ -1,0 +1,201 @@
+.loginStaffChild {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  overflow: hidden;
+}
+.imageRemovebgPreview1Icon {
+  position: absolute;
+  top: 190px;
+  left: 484px;
+  width: 201px;
+  height: 202px;
+  object-fit: cover;
+}
+.iprk,
+.iskandarPuteriRendah {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.iprk {
+  top: 0;
+  text-decoration: underline;
+  width: 244.1px;
+  height: 45px;
+}
+.iskandarPuteriRendah {
+  top: 100px;
+  font-size: var(--font-size-11xl);
+  width: 256px;
+  height: 18px;
+}
+.iprkParent {
+  position: absolute;
+  top: 190px;
+  left: 685px;
+  width: 256px;
+  height: 118px;
+  font-size: var(--font-size-81xl);
+}
+.loginStaffItem {
+  position: absolute;
+  top: 469px;
+  left: 498px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 440px;
+  height: 293px;
+}
+.imAStaff,
+.password,
+.signIn,
+.username {
+  position: absolute;
+  font-size: var(--font-size-19xl);
+  display: inline-block;
+}
+.signIn {
+  top: 485px;
+  left: 522px;
+  color: var(--color-cadetblue-100);
+  width: 142px;
+}
+.imAStaff,
+.password,
+.username {
+  top: 416px;
+  left: 511px;
+  width: 195px;
+}
+.password,
+.username {
+  top: 530px;
+  left: 519px;
+  font-size: var(--font-size-xl);
+  color: var(--color-cadetblue-100);
+  width: 178px;
+}
+.password {
+  top: 607px;
+  left: 522px;
+}
+.forgetPassword,
+.notAMember {
+  top: 866px;
+  display: inline-block;
+  width: 207px;
+}
+.notAMember {
+  position: absolute;
+  left: 735px;
+  cursor: pointer;
+}
+.forgetPassword {
+  left: 499px;
+}
+.forgetPassword,
+.groupChild,
+.or {
+  position: absolute;
+}
+.or {
+  top: 767px;
+  left: 702px;
+  font-size: var(--font-size-8xl);
+  display: inline-block;
+  width: 36px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray);
+  border: 1px solid var(--stroke);
+  box-sizing: border-box;
+  width: 440px;
+  height: 56px;
+}
+.signInWith {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  line-height: 24px;
+  display: inline-block;
+  width: 140.8px;
+}
+.google11 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20.6px;
+  height: 20px;
+  overflow: hidden;
+}
+.rectangleParent,
+.signInWithGoogleParent {
+  position: absolute;
+  top: 16px;
+  left: 127.5px;
+  width: 175.8px;
+  height: 24px;
+}
+.rectangleParent {
+  top: 805px;
+  left: 498px;
+  width: 440px;
+  height: 56px;
+  color: var(--text-color);
+  font-family: var(--font-satoshi);
+}
+.loginStaffInner {
+  position: absolute;
+  top: 695px;
+  left: 507px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-cadetblue-100);
+  width: 422px;
+  height: 56px;
+  cursor: pointer;
+}
+.loginStaffChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 556px;
+  left: 520px;
+  border-radius: var(--br-2xl);
+  background-color: var(--white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-cadetblue-100);
+  box-sizing: border-box;
+  width: 393px;
+  height: 44px;
+}
+.loginStaffChild1 {
+  top: 635px;
+  left: 522px;
+  width: 391px;
+}
+.letMeIn {
+  position: absolute;
+  top: 708px;
+  left: 649px;
+  font-size: var(--font-size-8xl);
+  display: inline-block;
+  width: 142px;
+  cursor: pointer;
+}
+.loginStaff {
+  position: relative;
+  background-color: var(--color-cadetblue-100);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--medium-size);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

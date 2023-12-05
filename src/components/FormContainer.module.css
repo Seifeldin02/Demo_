@@ -1,0 +1,45 @@
+.imageRemovebgPreview1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 85px;
+  height: 89px;
+  object-fit: cover;
+}
+.iprk,
+.iskandarPuteriRendah {
+  position: absolute;
+  display: inline-block;
+}
+.iprk {
+  top: 0;
+  left: 3px;
+  text-decoration: underline;
+  width: 123px;
+  height: 45px;
+}
+.iskandarPuteriRendah {
+  top: 48px;
+  left: 0;
+  font-size: var(--font-size-6xs);
+  width: 129px;
+  height: 18px;
+}
+.iprkParent,
+.mainLogo {
+  position: absolute;
+  top: 18px;
+  left: 93px;
+  width: 129px;
+  height: 66px;
+}
+.mainLogo {
+  top: 6px;
+  left: 29px;
+  width: 222px;
+  height: 89px;
+  text-align: left;
+  font-size: var(--font-size-30xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

@@ -1,0 +1,92 @@
+.selectOptionChild {
+  position: absolute;
+  top: 0;
+  left: 280px;
+  background-color: var(--color-cadetblue-100);
+  width: 1160px;
+  height: 78px;
+  overflow: hidden;
+}
+.imageRemovebgPreview1Icon {
+  position: absolute;
+  top: 249px;
+  left: 469px;
+  width: 201px;
+  height: 202px;
+  object-fit: cover;
+}
+.iprk,
+.iskandarPuteriRendah {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.iprk {
+  top: 0;
+  text-decoration: underline;
+  width: 244.1px;
+  height: 45px;
+}
+.iskandarPuteriRendah {
+  top: 100px;
+  font-size: var(--font-size-11xl);
+  width: 256px;
+  height: 18px;
+}
+.iprkParent {
+  position: absolute;
+  top: 249px;
+  left: 670px;
+  width: 256px;
+  height: 118px;
+  font-size: var(--font-size-81xl);
+}
+.selectOptionInner,
+.selectOptionItem {
+  position: absolute;
+  top: 525px;
+  left: 528px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mintcream);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 379px;
+  height: 67px;
+  cursor: pointer;
+}
+.selectOptionInner {
+  top: 604px;
+  left: 526px;
+}
+.imAUser {
+  top: 537px;
+  left: 617px;
+  color: var(--color-cadetblue-100);
+  width: 200px;
+}
+.chooseSignIn,
+.imAStaff,
+.imAUser {
+  position: absolute;
+  display: inline-block;
+}
+.imAStaff {
+  top: 616px;
+  left: 615px;
+  color: var(--color-cadetblue-100);
+  width: 200px;
+}
+.chooseSignIn {
+  top: 472px;
+  left: 541px;
+  width: 431px;
+}
+.selectOption {
+  position: relative;
+  background-color: var(--color-cadetblue-100);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}

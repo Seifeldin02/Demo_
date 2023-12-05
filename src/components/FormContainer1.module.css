@@ -1,0 +1,210 @@
+.imageRemovebgPreview1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 85px;
+  height: 89px;
+  object-fit: cover;
+}
+.iprk,
+.iskandarPuteriRendah {
+  position: absolute;
+  display: inline-block;
+}
+.iprk {
+  top: 0;
+  left: 3px;
+  text-decoration: underline;
+  width: 123px;
+  height: 45px;
+}
+.iskandarPuteriRendah {
+  top: 48px;
+  left: 0;
+  font-size: var(--font-size-6xs);
+  width: 129px;
+  height: 18px;
+}
+.iprkParent,
+.mainLogo {
+  position: absolute;
+  top: 18px;
+  left: 93px;
+  width: 129px;
+  height: 66px;
+}
+.mainLogo {
+  top: 6px;
+  left: 29px;
+  width: 222px;
+  height: 89px;
+  font-size: var(--font-size-30xl);
+  color: var(--white);
+  font-family: var(--font-orelega-one);
+}
+.signOut {
+  position: absolute;
+  top: 957px;
+  left: 76px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 92px;
+  height: 30px;
+}
+.signOutSqureIcon {
+  position: absolute;
+  top: 957px;
+  left: 47px;
+  width: 24px;
+  height: 24px;
+}
+.adaptation,
+.carbonAnalysis,
+.joinUs {
+  position: absolute;
+  top: 225px;
+  left: 51px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 135px;
+  height: 27px;
+}
+.adaptation,
+.joinUs {
+  top: 258px;
+}
+.joinUs {
+  top: 292px;
+}
+.calendar,
+.calenderAlt2Icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.calenderAlt2Icon {
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.calendar {
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 174px;
+}
+.calenderAlt2Parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 20px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-steelblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.menuItem {
+  position: absolute;
+  width: 82.14%;
+  top: calc(50% - 179px);
+  right: 8.93%;
+  left: 8.93%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+}
+.dashboard {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.gridAltParent {
+  gap: var(--gap-3xs);
+}
+.frameContainer,
+.gridAltParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chevronDown1Icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-steelblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.frameWrapper {
+  position: absolute;
+  height: 3.91%;
+  width: 82.14%;
+  top: 16.99%;
+  right: 8.93%;
+  bottom: 79.1%;
+  left: 8.93%;
+  color: var(--dark-text-color-1);
+  font-family: var(--font-satoshi);
+}
+.userAlt4Parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 20px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkseagreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-5xs)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.menuItem1 {
+  position: absolute;
+  width: 82.14%;
+  top: calc(50% - 397px);
+  right: 8.93%;
+  left: 8.93%;
+  height: 40px;
+  color: var(--dark-text-color-1);
+}
+.mainLogoParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-silver);
+  width: 280px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--medium-size);
+  color: var(--color-lightslategray);
+  font-family: var(--medium);
+}
